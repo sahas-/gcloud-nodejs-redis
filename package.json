@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines":{
+    "node":"~5.2.0"
+  },
+  "scripts": {
+    "start":"node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nconf": "^0.8.4",
+    "redis": "^2.6.2"
+  }
+}
